@@ -24,11 +24,11 @@ TweetBeacon = function(tweet) {
     this.color = 0x01f9ea;
   }
   else if(tweet.sentiment.score < 0 & tweet.sentiment.score > -2){
-    this.color = 0xf9f501;
+    this.color = 0xffd966;
   
   }
     else if(tweet.sentiment.score > 0 & twwet.sentiment.score > 2){
-    this.color = 0x65f104;
+    this.color = 0x26FF01;
     }
 
   this.addBeam();
