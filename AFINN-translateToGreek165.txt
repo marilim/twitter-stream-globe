@@ -3637,6 +3637,7 @@ taint	-2
 tainted	-2
 μολυσμένος -2
 αλλοιωμένος -2
+// Dimitrios Tsirigotis P2009041 MM
 talent	2
 ταλέντο 2
 //Giwrgos Papakwnstantinoy P2013137 cscw
@@ -3694,15 +3695,27 @@ terrorists	-2
 τρομοκράτες -2
 // 2015139 Giorgos Margaritis CSCW
 terrorize	-3
+τρομοκρατώ -3
+// Dimitrios Tsirigotis P2009041 MM
 terrorized	-3
+τρομοκρατημένος -3
+// Dimitrios Tsirigotis P2009041 MM
 terrorizes	-3
+τρομοκρατεί
+// Dimitrios Tsirigotis P2009041 MM
 thank	2
+ευχαριστώ 2
+// Dimitrios Tsirigotis P2009041 MM
 thankful	2
+ευγνώμων 2
+// Dimitrios Tsirigotis P2009041 MM
 thanks	2
 thorny	-2
 thoughtful	2
 thoughtless	-2
 threat	-2
+απειλή -2 
+// Dimitrios Tsirigotis P2009041 MM
 threaten	-2
 threatened	-2
 threatening	-2
@@ -3727,6 +3740,8 @@ torture	-4
 βασανιστήριο -4
 // 2015139 Giorgos Margaritis CSCW
 tortured	-4
+βασανισμένος -4
+// Dimitrios Tsirigotis P2009041 MM
 tortures	-4
 torturing	-4
 totalitarian	-2
