@@ -31,10 +31,10 @@
 **Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι τιμές των 6 μεταβλητών που περιγράψαμε παραπάνω (**TWITTER_CONSUMER_KEY**, **TWITTER_CONSUMER_SECRET** κ.λπ.) να μην είναι δημόσια στο **github**. Μια καλή λύση θα ήταν να τις αποκρύψετε καταχωρώντας τις κατευθείαν στην εφαρμογή σας στο **Heroku** (**Settings** -> **Config Variables**).
 
 **Βήμα 1**
-![herokuConfigp1](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
+![herokuConfigp0](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
 
 **Βήμα 2**
-![herokuConfigp2](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/pvg.jpg)
+![herokuConfigp1](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/pvg.jpg)
 
 
 
