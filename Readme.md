@@ -32,8 +32,10 @@
 
 **Βήμα 1**
 ![herokuConfigp1](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
+
 **Βήμα 2**
 ![herokuConfigp2](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/pvg.jpg)
+
 
 
 Όσον αφορά στην πλατφόρμα PubNub, για να βρείτε τις τιμές των 2 μεταβλητών ακολουθήστε τα εξής βήματα:
