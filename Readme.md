@@ -33,6 +33,8 @@
 **Βήμα 1**
 ![herokuConfigp0](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
 
+και στη συνέχεια
+
 **Βήμα 2**
 ![herokuConfigp1](https://github.com/courses-ionio/projects/blob/master/tweetSentimentStreamGlobe/screenshots/pvg.jpg)
 
